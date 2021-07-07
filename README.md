@@ -35,15 +35,15 @@ S-Finder is a simple subdomain enumeration python tool to collect subdomains of 
 * [+] Easy for Beginners !
 
 ## INSTALLATION ON KALI-LINUX :
-'''
+
 * apt-get update -y
 * apt-get upgrade -y
 * git clone https://github.com/CharlieTheHack1/S-Finder
 * cd S-Finder
 * python3 S-Finder.py
-'''
+
 ## INSTALLATION ON TERMUX :
-'''
+
 * apt-get update -y
 * apt-get upgrade -y
 * pkg install python -y
@@ -53,7 +53,6 @@ S-Finder is a simple subdomain enumeration python tool to collect subdomains of 
 * cd S-Finder
 * ls
 * python3 S-Finder.py
-'''
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
