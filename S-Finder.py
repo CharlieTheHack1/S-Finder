@@ -1,8 +1,18 @@
 import requests
-import os
-
-os.system("toilet -fmono12 -F gay S-Finder")
-
+print()
+print (
+	  _________        ___________.__            .___            
+ /   _____/        \_   _____/|__| ____    __| _/___________ 
+ \_____  \   ______ |    __)  |  |/    \  / __ |/ __ \_  __ \
+ /        \ /_____/ |     \   |  |   |  \/ /_/ \  ___/|  | \/
+/_______  /         \___  /   |__|___|  /\____ |\___  >__|   
+        \/              \/            \/      \/    \/       
+	)
+print("\033[96m Code made by www.github.com/CharlieTheHack1")
+print(" Instagram 1 : https://instagram.com/7.7.7.7_hacker ")
+print(" Instagram 2 : https://instagram.com/7.7.7.7_hacker ")
+print(" Twitter  https://twitter.com/CharlieTheHack1 \033[0m")
+print()
 domain = input("Enter domain: ")
 file = open('wordlist.txt','r')
 content = file.read()
