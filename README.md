@@ -6,7 +6,7 @@
 <a><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 </p>
 <p align="center">
-<a><img title="S-Finder" src="https://user-images.githubusercontent.com/49580304/96666403-e4418800-130b-11eb-90bc-938e0825e610.jpg"></a>
+<a><img title="S-Finder" src="https://github.com/CharlieTheHack1/S-Finder/blob/main/S-Finder.png"></a>
 </p>
 <p align="center">
 <a><img title="Github" src="https://img.shields.io/badge/Tool-S Finder-brightgreen?style=for-the-badge&logo=github"></a>
