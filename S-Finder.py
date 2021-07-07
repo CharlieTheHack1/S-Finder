@@ -13,7 +13,7 @@ print (red+"""
 ╚══════╝      ╚═╝     ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝                                                              
 """+red)
 
-print("\033[96m Code made by www.github.com/CharlieTheHack1")
+print("\033[96m Coded By - Charlie : The Hacker")
 print(" Instagram 1 : https://instagram.com/7.7.7.7_hacker ")
 print(" Instagram 2 : https://instagram.com/7.7.7.7_hacker ")
 print(" Twitter  https://twitter.com/CharlieTheHack1 \033[0m")
