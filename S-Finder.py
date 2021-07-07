@@ -1,4 +1,7 @@
 import requests
+import os
+
+os.system("toilet -fmono12 -F gay S-Finder")
 
 domain = input("Enter domain: ")
 file = open('wordlist.txt','r')
