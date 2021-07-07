@@ -14,8 +14,9 @@ print (red+"""
 """+red)
 
 print("\033[96m Coded By - Charlie : The Hacker")
-print(" Instagram 1 : https://instagram.com/7.7.7.7_hacker ")
-print(" Instagram 2 : https://instagram.com/7.7.7.7_hacker ")
+print(" Instagram 1 : https://instagram.com/hackietainment ")
+print(" Instagram 2 : https://instagram.com/thelinuxboy ")
+print(" Discord : https://discord.io/hackietainment ")
 print(" Twitter  https://twitter.com/CharlieTheHack1 \033[0m")
 print()
 domain = input("Enter domain: ")
