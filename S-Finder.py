@@ -1,13 +1,18 @@
 import requests
+
+#colours used
+red = '\033[31m'
+
 print()
-print (
+print (red+"""
 	  _________        ___________.__            .___            
  /   _____/        \_   _____/|__| ____    __| _/___________ 
  \_____  \   ______ |    __)  |  |/    \  / __ |/ __ \_  __ \
  /        \ /_____/ |     \   |  |   |  \/ /_/ \  ___/|  | \/
 /_______  /         \___  /   |__|___|  /\____ |\___  >__|   
         \/              \/            \/      \/    \/       
-	)
+"""+red)
+
 print("\033[96m Code made by www.github.com/CharlieTheHack1")
 print(" Instagram 1 : https://instagram.com/7.7.7.7_hacker ")
 print(" Instagram 2 : https://instagram.com/7.7.7.7_hacker ")
